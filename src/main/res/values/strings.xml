@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="note_text">Name</string>
+    <string name="color">Color</string>
+    <string name="note_text2">City</string>
+    <string name="Ok">Ok</string>
+    <string name="style">Choose Style</string>
+    <string name="note_details_title">Item</string>
+    <string name="weather_title">City</string>
+    <string name="save">Save</string>
+    <string name="completed">Complete</string>
+
+</resources>
